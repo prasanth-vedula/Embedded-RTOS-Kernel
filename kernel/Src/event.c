@@ -4,7 +4,8 @@
  * Description : Event Flags Implementation
  ******************************************************************************/
 
-#include "event.h"
+#include <stddef.h>
+#include "event.h""
 
 /******************************************************************************
  * Create Event
