@@ -7,6 +7,7 @@
 #include <string.h>
 
 #include "queue.h"
+#include <stddef.h>
 
 /******************************************************************************
  * Create Queue

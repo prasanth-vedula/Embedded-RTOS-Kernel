@@ -8,6 +8,7 @@
 #include "scheduler.h"
 #include "task.h"
 #include "config.h"
+#include <stddef.h>
 
 /******************************************************************************
  * Static Variables

@@ -6,6 +6,7 @@
 
 #include "port.h"
 #include "kernel.h"
+#include <stddef.h>
 
 /******************************************************************************
  * Static Variables
